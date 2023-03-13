@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora.Calculadora",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "OperadorVariavel.Operadores",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "OperadorVariavel.TiposVariaveis",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "TerminalArgumentos.AboutMe",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "TerminalArgumentos.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "exemploSmartTV.Usuario",
+            "projectName": "dio-trilha-java-basico_bf9abe01"
+        }
+    ]
+}
